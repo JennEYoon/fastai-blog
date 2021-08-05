@@ -47,7 +47,7 @@
     
         ,"post4": {
             "title": "Blog Test 2",
-            "content": "Title - Blog Test 2 . Here’s the table of contents: . Title - Blog Test 2 Paragraph Text | Images | Code | | Paragraph Text . What is “base_url”? Who is hosting it? Seems to be Github jenneyoon.github.io.repo Source? Seems to be folder path for blog content . testing blog post, basic, no notebooks. Does not ask for URL in settings. . Images . uploaded image: . fastai logo: . Code . General preformatted text: . # Do a thing do_thing() . Python code and output (triple backticks python ): . # Prints &#39;2&#39; print(1+1) . 2 # Four spaces . 2 # no space .",
+            "content": "Markdown - Blog Test . Here’s the table of contents: . Markdown - Blog Test Paragraph Text | Images | Code | | Paragraph Text . Welcome to fastai-blog. Hosted on Github.io and generated from fastpages template. Autocreates posts, markdown format. Posts needs to be saved under _posts folder. Name needs to start with YYYY-MM-DD-*.md format. . Images . uploaded image: . fastai logo: . Code . General preformatted text: . # Do a thing do_thing() . Python code and output (triple backticks python ): . # Prints &#39;2&#39; print(1+1) . 2 # Four spaces . 2 # no space .",
             "url": "https://jenneyoon.github.io/fastai-blog/2021/08/04/blog-test-2.html",
             "relUrl": "/2021/08/04/blog-test-2.html",
             "date": " • Aug 4, 2021"
